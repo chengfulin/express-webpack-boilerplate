@@ -1,0 +1,18 @@
+# IDE
+!.vscode
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# packages
+node_modules
+
+# development
+.tscache
+dist
+.env
+.examle.env
+
+# Logs
+*.log
+git

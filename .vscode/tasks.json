@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "type": "grunt",
+      "task": "default",
+      "problemMatcher": [],
+      "label": "grunt: default"
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "label": "yarn build"
+    }
+  ]
+}
